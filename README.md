@@ -17,7 +17,7 @@ Programming languages: C# • Java • C++
 Software: Visual Studio • Unity • Photoshop
 
 
-## FAQ
+## 🙋 FAQ
 👩‍💻 I'm currently working on expanding my portfolio...
 
 🧠 I'm currently learning Full Stack Development...
