@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-A Unity Developer from California...
+I'm a Unity Developer with 3+ years of experience working on games and apps. I have a strong foundation of knowledge working with most features the engine possesses. What I'm looking for in my next role is collaboration, a team-focused atmosphere. Somewhere I'll have the opportunity to learn and grow my technical skills further. To benefit the team, as well as myself.
 
 
 ## 🔗 Links
@@ -11,7 +11,7 @@ A Unity Developer from California...
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phillip-gonzales-747367116/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nu11ity)
 
-## 🛠 Experiences
+## 🛠 Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
