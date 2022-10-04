@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a Unity Developer with 3+ years of experience working on games and apps. I have a strong foundation of knowledge working with most features the engine possesses. What I'm looking for in my next role is collaboration, a team-focused atmosphere. Somewhere I'll have the opportunity to learn and grow my technical skills further. To benefit the team, as well as myself.
+Unity Developer with 7+ years experience, 4 of those being in the professional domain. I have a strong foundation of knowledge working with most features the engine possesses. What I'm looking for in my next role is collaboration, a team-focused atmosphere. Somewhere I'll have the opportunity to learn and grow my technical skills further. To benefit the team, as well as myself. 
 
 
 ## 🔗 Links
