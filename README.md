@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-Unity Developer with 7+ years experience, 4 of those being in the professional domain. I have a strong foundation of knowledge working with most features the engine possesses. What I'm looking for in my next role is collaboration, a team-focused atmosphere. Somewhere I'll have the opportunity to learn and grow my technical skills further. To benefit the team, as well as myself. 
+Seasoned Unity Developer with published games on the Oculus, Steam, and Google Play Stores. Highly skilled using Unity and C#, with 8+ years experience, 4 of those being in the professional domain. What I'm looking for in my next role is collaboration, a team-focused atmosphere. Somewhere I’ll have the opportunity to learn and grow my technical skills further.
 
 
 ## 🔗 Links
@@ -26,9 +26,9 @@ Unity Developer with 7+ years experience, 4 of those being in the professional d
 
 
 ## 🙋 FAQ
-👩‍💻 I'm currently working on expanding my portfolio...
+👩‍💻 I'm currently working on expanding my Tech Stack...
 
-🧠 I'm currently learning Full Stack Development...
+🧠 I'm currently learning Unity's Netcode Solution...
 
 👯‍♀️ I'm looking to collaborate on anything of interest...
 
@@ -36,5 +36,5 @@ Unity Developer with 7+ years experience, 4 of those being in the professional d
 
 📫 How to reach me **nullitycontact@gmail.com**
 
-⚡️ Fun fact, decided to become a game developer while raiding in Tera...
+⚡️ Fun fact, I decided to learn Game Development due to my interest in MMORPGs...
 
